@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c8f3721-7f90-46d5-8cd6-02683af093b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +40,14 @@
     "Python.app.executor": "Run",
     "Python.app1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/amjad/Breast_Cancer",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/amjad/Breast_Cancer/templates",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amjad\Breast_Cancer\templates" />
       <recent name="C:\Users\amjad\Breast_Cancer" />
     </key>
   </component>
