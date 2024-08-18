@@ -4,3 +4,5 @@ The project includes a Flask web application for interacting with the model, whi
 It used Use the breast cancer dataset (Breast_Cancer_Data.csv) (https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
 The app.py script contains a Flask web application that allows users to interact with the machine learning model.
 Users can input data through a web form, and the application will return predictions based on the trained model.
+This application can be accessed with this address:
+https://nu-1-4162e77bfe30.herokuapp.com/
